@@ -23,7 +23,6 @@ Complete la tabla:
 | Integrante | github nick |
 |------------|-------------|
 | Degly Sebastián Pava | DglyP |
-|------------|-------------|
 | Carlos Arturo López | caralopezromUN |
 
 ## Discusión
